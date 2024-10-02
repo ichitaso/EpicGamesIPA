@@ -4,7 +4,7 @@ Collection of IPAs from the Epic Games Store for sideloading on iOS devices outs
 # Fortnite
 
 ## Installation Issues
-Fortnite may crash on installation unless you're using TrollStore or a paid developer certificate. Due to an Apple limitation that cannot be bypassed.
+Fortnite may crash on installation unless you're using **TrollStore or a paid developer certificate**. Due to an Apple limitation that cannot be bypassed.
 
 ## How to Install with an Apple Developer Certificate
 If you have a certificate, or TrollStore, you should be able to install the IPA directly.
