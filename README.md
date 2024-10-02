@@ -1,6 +1,14 @@
 # Epic Games IPA
 Collection of IPAs from the Epic Games Store for sideloading on iOS devices outside of the EU
 
+---
+
+We have partnered with [FlekSt0re](https://flekstore.com/EpicGames)! They are providing us with support in our efforts to share games from Epic on iOS globally. New versions of apps are available immediately on FlekSt0re.
+
+**Link: [https://flekstore.com/EpicGames](https://flekstore.com/EpicGames)**
+
+---
+
 # Fortnite
 
 ## Installation Issues
