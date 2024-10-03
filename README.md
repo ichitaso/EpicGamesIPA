@@ -7,6 +7,8 @@ We have partnered with [FlekSt0re](https://flekstore.com/EpicGames)! They are pr
 
 **Link: [https://flekstore.com/EpicGames](https://flekstore.com/EpicGames)**
 
+[![Flekstore iOS Major Upgrade (2024) : Sideloading & More !](https://img.youtube.com/vi/k39hi8l7wxk/0.jpg)](https://www.youtube.com/watch?v=k39hi8l7wxk)
+
 ---
 
 # Fortnite
